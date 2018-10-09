@@ -14,7 +14,7 @@
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url" value="jdbc:mysql://rm-wz94y5039r6fna3ago.mysql.rds.aliyuncs.com/test_1?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=UTF-8" />
 	 	<property name="username" value="bird" />
-        <property name="password" value="Huayan888" />
+        <property name="password" value="123212" />
 	</bean>
 
 	<!-- 数据会话工厂：映射模型包-->
